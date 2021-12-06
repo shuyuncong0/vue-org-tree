@@ -23,6 +23,13 @@ npm install
 npm run dev
 ```
 
+## Example
+
+- default
+
+  ![default](./static/images/example.png)
+
+
 ## Props
 prop              | descripton                   | type                   | default
 ------------------|------------------------------|:----------------------:|---------------------
