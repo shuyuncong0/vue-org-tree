@@ -48,3 +48,12 @@ event             | descripton                  | arguments
 ------------------|-----------------------------|------------------------------
 on-expand         | 当任一节点收缩状态改变时触发     | data(当前节点数据), status(当前节点是否展开)
 on-node-click     | 点击节点时触发                 | event(鼠标事件对象), data(当前节点数据), expand(是一个方法，如果点击该节点需要收缩，需要调用次方法)
+
+## Browser support
+
+  use table layout!
+
+> IE9+、Chrome、Firefox、Opera
+
+## License
+[MIT](./LICENSE)
