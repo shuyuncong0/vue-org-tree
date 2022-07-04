@@ -27,7 +27,7 @@ npm run dev
 
 - default
 
- ## ![default](./static/images/example.png)
+
 
 
 ## Props
